@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "451481362924",
+    "project_id": "matka-a9f65",
+    "storage_bucket": "matka-a9f65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451481362924:android:7892e5c712227ca64220c9",
+        "android_client_info": {
+          "package_name": "com.indiaonline.tigercasino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451481362924-1a7rpme58e3av25go891ck794aqq95s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeOfqmeX-nz9V1GkSaTKEOqj162X5Pzaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451481362924-1a7rpme58e3av25go891ck794aqq95s8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
